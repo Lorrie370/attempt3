@@ -1,0 +1,5 @@
+{
+  "name": "Christmas Tree Composition",
+  "description": "An interactive SVG composition test using Framer Motion with scatter and flip animations.",
+  "requestFramePermissions": []
+}
